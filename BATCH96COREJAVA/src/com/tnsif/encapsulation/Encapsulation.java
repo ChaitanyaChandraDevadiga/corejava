@@ -11,4 +11,5 @@ public class Encapsulation {
 		System.out.println("Serialnumber:"+serialNum+"\t Name:"
 				+ ""+name+"\t Age:"+age);
 	}
+
 }
